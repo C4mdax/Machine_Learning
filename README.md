@@ -1,5 +1,5 @@
 # Machine Learning exercises
-Repository to Machine Learning exercises. Include: 
+Repository for Machine Learning exercises. Include: 
 
 ### Supervised learning exercises
 #### Classification
