@@ -26,4 +26,6 @@ Repository for Machine Learning exercises. Include:
 
 ### Contributing
 Feel free to open an issue or submit a pull request!
-
+---- 
+Luis Angel Moreno Delgado  
+2024.
