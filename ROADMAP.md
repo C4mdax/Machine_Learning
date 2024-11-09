@@ -169,7 +169,7 @@
   Optimized library for training decision tree boosting models. It is efficient and widely used in competitions like Kaggle due to its superior performance and ability to handle large volumes of data.
 </details>
 
-# P7: Deep Learning Concepts
+# P7: Deep Learning
 <details>
   <summary>Neural Networks Fundamentals</summary>    
   
@@ -235,7 +235,7 @@
   
 </details>
 
-# P8 Machine Learning Deep Learning Libraries
+# P8 Deep Learning Libraries
 <details>
   
   <summary>TensorFlow</summary>    
