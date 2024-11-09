@@ -2,7 +2,7 @@
 # Machine Learning exercises
 Repository for Machine Learning. Include:
 ## Roadmap
-![Machine Learning Engineer Roadmap](https://github.com/C4mdax/Machine_Learning/blob/main/ROADMAP.md)
+![Machine Learning Engineer Roadmap](https://github.com/C4mdax/Machine_Learning/blob/main/Roadmap/ROADMAP.md)
 ## Exercises
 ### Supervised learning exercises
 #### Classification
