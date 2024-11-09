@@ -60,5 +60,31 @@ November 2024.
 - Finding Eigenvalues and Eigenvector
 - Properties (Multiplicity, Diagonalization)
 
+### Probability
+#### Probability Measures
+- Classic Probability
+- Conditional Probability
+- Bayes Theorem
 
+#### Discrete Random Variables and Distributions
+- Basics (concept of random variable, point probability)
+- Main Discrete Distributions and Parametric Families: 
+- - Uniform
+- - Bernoulli
+- - Binomial
+- - Geometric
+- - Hypergeometric
+- - Poisson
+- Main Continuous Distributions and Parametric Families: 
+- - Uniform
+- - Gaussian
+- - Exponencial
+- - Gamma
+- - Beta
 
+#### Distribution Characteristics
+- Expectation
+- Variance
+- Moments
+
+#### Transformation of Random Variables
