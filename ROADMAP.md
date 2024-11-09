@@ -1,7 +1,10 @@
 # My ML-Engineer Roadmap
 November 2024.
-## P1: Math Foundations
-
+## P1: Math Foundations. 
+- Resources: 
+- - _Machine Learning Fundamentals: A Concise Introduction_, by Hui Jiang. 
+- - _Mathematics for Machine Learning_
+- 
 ### Calculus
 #### Functions
 - Algebraic Functions (concept, notion and behavior)
