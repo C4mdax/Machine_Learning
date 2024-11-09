@@ -27,8 +27,3 @@ Repository for Machine Learning. Include:
 - Apriori Algorithm
 - FP-Growth
 
-### Contributing
-Feel free to open an issue or submit a pull request!
----- 
-Luis Angel Moreno Delgado  
-2024.
