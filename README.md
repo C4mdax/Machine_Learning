@@ -1,6 +1,9 @@
-# Machine Learning exercises
-Repository for Machine Learning exercises. Include: 
 
+# Machine Learning exercises
+Repository for Machine Learning. Include:
+## Roadmap
+![Machine Learning Roadmap Engineer](https://github.com/C4mdax/Machine_Learning/blob/main/ROADMAP.md)
+## Exercises
 ### Supervised learning exercises
 #### Classification
 - KNN
