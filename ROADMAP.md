@@ -1,4 +1,4 @@
-# ML-Engineer Proficient Roadmap
+# Proficient Machine Learning Roadmap
 # P1: Math Foundations
 <details>
   <summary>Calculus</summary>
