@@ -4,6 +4,9 @@ Throughout the study, it is important to apply the technical knowledge obtained 
 - **Kaggle**: Is a popular platform for data science and machine learning competitions. It provides datasets, tutorials, and a collaborative community for developing, sharing, and testing machine learning models. Users can participate in competitions to solve real-world problems, hone their skills, and even earn prizes. Kaggle also offers cloud-based Jupyter notebooks, which are great for hands-on practice and learning.
 - **LeetCode**: Is an online platform focused on technical interview preparation, with a vast collection of coding challenges. While it primarily emphasizes algorithm and data structure problems, it also has sections on SQL, shell scripting, and other programming topics. LeetCode is widely used by developers and aspiring engineers to practice coding skills and prepare for interviews at top tech companies.
 # Phase 1: Math Foundations
+#### Resources: 
+- _Mathematics for Machine Learning_, Deisenroth M., Faisal A., Soon C.
+- _Machine Learning Fundamentals, A Concise Introduction_, Jiang H.
 <details>
   <summary>Calculus</summary>
   
@@ -58,6 +61,11 @@ Throughout the study, it is important to apply the technical knowledge obtained 
 </details>
 
 # Phase 2: Programming and Tools
+#### Resources: 
+-  Python Documentation: https://docs.python.org/3/
+- R Documentation: https://www.r-project.org/other-docs.html
+- Jupyter Documentation: https://docs.jupyter.org/en/latest/
+- Anaconda Documentation: https://docs.anaconda.com/
 <details>
   <summary>Python</summary>  
   
@@ -95,6 +103,8 @@ Throughout the study, it is important to apply the technical knowledge obtained 
 </details>
 
 # Phase 3: Databases
+#### Resources
+- Coursera
 <details>
   <summary>Basics</summary>  
   
