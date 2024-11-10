@@ -135,6 +135,13 @@
 
 # P5: Machine Learning Concepts and Algorithms
 <details>
+  <summary>Fundamentals</summary>  
+   
+  - How a ML model learns
+  - Generative AI
+  - Discriminative AI
+</details>
+<details>
   <summary>Supervised Learning</summary>  
    
   - Concept
@@ -142,7 +149,7 @@
   - Regression (Linear Regression, Logistic Regression, Polynomial Regression)
 </details>
 <details>
-  <summary>Unsupervised Learning</summary>    
+  <summary>Unsupervised Learning</summary>   
   
   - Concept
   - Clustering (K-means, Hierarchical Clustering, DBSCAN)
