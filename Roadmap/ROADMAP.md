@@ -1,5 +1,9 @@
 # Proficient Machine Learning Roadmap
-# P1: Math Foundations
+Throughout the study, it is important to apply the technical knowledge obtained in practical projects. My recommendation is:  
+
+- **Kaggle**: Is a popular platform for data science and machine learning competitions. It provides datasets, tutorials, and a collaborative community for developing, sharing, and testing machine learning models. Users can participate in competitions to solve real-world problems, hone their skills, and even earn prizes. Kaggle also offers cloud-based Jupyter notebooks, which are great for hands-on practice and learning.
+- **LeetCode**: Is an online platform focused on technical interview preparation, with a vast collection of coding challenges. While it primarily emphasizes algorithm and data structure problems, it also has sections on SQL, shell scripting, and other programming topics. LeetCode is widely used by developers and aspiring engineers to practice coding skills and prepare for interviews at top tech companies.
+# Phase 1: Math Foundations
 <details>
   <summary>Calculus</summary>
   
@@ -53,7 +57,7 @@
   - Numerical Optimization Methods
 </details>
 
-# P2: Programming and Tools
+# Phase 2: Programming and Tools
 <details>
   <summary>Python</summary>  
   
@@ -90,7 +94,7 @@
   - Running Jupyter Notebooks
 </details>
 
-# P3: Databases
+# Phase 3: Databases
 <details>
   <summary>Basics</summary>  
   
@@ -112,7 +116,7 @@
   - Transaction Management (BEGIN TRANSACTION, COMMIT, ROLLBACK)
 </details>
 
-# P4: Data Science Libraries
+# Phase 4: Data Science Libraries
 <details>
   <summary>Pandas</summary>  
   Pandas is a powerful and flexible open-source data manipulation and analysis library built on top of NumPy. It provides data structures like DataFrame and Series for handling and analyzing structured data (like tables).
@@ -133,7 +137,7 @@
   Matplotlib is a plotting library for creating static, interactive, and animated visualizations in Python. It provides tools to generate line plots, histograms, bar charts, and more.
 </details>
 
-# P5: Machine Learning Concepts and Algorithms
+# Phase 5: Machine Learning Concepts and Algorithms
 <details>
   <summary>Fundamentals</summary>  
    
@@ -165,7 +169,7 @@
   - Model-based Algorithms
 </details>
 
-# P6: Machine Lerning Introductory Libraries
+# Phase 6: Machine Lerning Introductory Libraries
 <details>
   <summary>Scikit-Learn</summary>  
   The most popular and easy-to-use library for machine learning in Python. It provides a wide range of algorithms and tools for classification, regression, clustering, dimensionality reduction, feature selection, and more. It also includes functions for data preprocessing and model validation.
@@ -176,7 +180,7 @@
   Optimized library for training decision tree boosting models. It is efficient and widely used in competitions like Kaggle due to its superior performance and ability to handle large volumes of data.
 </details>
 
-# P7: Deep Learning
+# Phase 7: Deep Learning
 <details>
   <summary>Neural Networks Fundamentals</summary>    
   
@@ -242,7 +246,7 @@
   
 </details>
 
-# P8 Deep Learning Libraries
+# Phase 8: Deep Learning Libraries
 <details>
   
   <summary>TensorFlow</summary>    
@@ -267,7 +271,7 @@ High-level API that simplifies building and training deep learning models. Origi
 Open-source deep learning framework known for its scalability and speed. It was designed for both research and production and is backed by Amazon Web Services (AWS).
 </details>
 
-# P9 Application
+# Phase 9: Application
 It's time to formally apply!
 # Contributing
 Feel free to collaborate and improve this roadmap for future enthusiasts!
