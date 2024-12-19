@@ -1,0 +1,42 @@
+'''
+October 2024
+Kaggle Titanic
+'''
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import OrdinalEncoder
+
+df_train = pd.read_csv('')
+df_test = pd.read_csv('train.csv')
+
+df_train.sample(10)
+df_train.shape
+df_train.info()
+#Duplicate Values
+df_train.duplicated().sum()
+#Null values
+df_train.isnull().sum().sort_values(ascending = False)
+#Unique values
+df_train.nunique()
+#Age values
+age = df_train["Age"]
+df_age = pd.DataFrame(age)
+df_age.sort_values(by="Age")
+
+'''
+Here we can see some interesting things:
+- The data set has the Passenger data like its ID, name, Pclass, sex, and if the passenger survived.
+Values:
+- PassengerID: Unique for each passenger
+- Name: Unique for each passenger
+- Sex: Male/Female
+- Survived: 1/0 (Yes or Not boolean value)
+- PClass: 1-3 (Class 1, 2 or 3)
+- Age: (19-88)
+
+Passengers: 891
+'''
