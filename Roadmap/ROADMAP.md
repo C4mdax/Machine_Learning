@@ -1,8 +1,8 @@
 # Proficient Machine Learning Roadmap
 Throughout the study, it is important to apply the technical knowledge obtained in practical projects. My recommendation is:  
 
-- **Kaggle**: Is a popular platform for data science and machine learning competitions. It provides datasets, tutorials, and a collaborative community for developing, sharing, and testing machine learning models. You can participate in competitions to solve real-world problems, hone their skills, and even earn prizes. Kaggle also offers cloud-based Jupyter notebooks.
-- **LeetCode**: Is an online platform focused on technical interview preparation, with a vast collection of coding challenges. While it primarily emphasizes algorithm and data structure problems, it also has sections on SQL, shell scripting, and other programming topics. LeetCode is widely used by developers and aspiring engineers to practice coding skills and prepare for interviews at top tech companies.
+- **Kaggle**: Is a popular platform for data science and machine learning competitions. It provides datasets, tutorials, and a collaborative community for developing, sharing, and testing machine learning models. You can participate in competitions to solve real-world problems, hone your skills, and even earn prizes. Kaggle also offers cloud-based Jupyter notebooks.
+- **LeetCode**: Is an online platform focused on technical interview preparation and algorithm skills, with a vast collection of coding challenges. While it primarily emphasizes algorithm and data structure problems, it also has sections on SQL, shell scripting, and other programming topics. LeetCode is widely used by developers and aspiring engineers to practice coding skills and prepare for interviews at top tech companies.
 # Phase 1: Math Foundations
 #### Resources: 
 - _Mathematics for Machine Learning_, Deisenroth M., Faisal A., Soon C.
